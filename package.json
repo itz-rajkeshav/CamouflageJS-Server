@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "javascript-obfuscator": "^4.1.1",
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "type": "module"
+}
